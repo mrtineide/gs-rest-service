@@ -14,6 +14,7 @@ You will build a service that will accept HTTP GET requests at
 
 It will respond with a JSON representation of a greeting, as the following listing shows:
 
+
 ====
 [source,json]
 ----
